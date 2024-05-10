@@ -13,6 +13,28 @@ Each block defines:
 A full lesson plan would be:
 
 ```mermaid
+block-beta
+ columns 1
+ LO("Lesson Overview")
+ block:Block1:1
+    columns 1
+    A1("Activity A1")
+    A2("Activity A2")
+ end
+ block:Block2:1
+    columns 1
+    B1("Activity B1")
+    B2("Activity B2")
+ end
+ block:Reflection:1
+    columns 1
+    Evaluation
+    Summation
+ end
+
+```
+
+```mermaid
 classDiagram
     LessonPlan "1" --> "*" Block
     Block "1" --> "*" Activity
