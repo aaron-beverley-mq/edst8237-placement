@@ -12,14 +12,6 @@ Contact the school to get details if possible on:
 ## Day 1
 Be early, know who you need to meet and enter via the Administration office
 
-### Documents
-- Letter of introduction
-- Professional Experience Letter
-- Declaration of WWCC
-- Working with children checks
-- Child protection awareness training
-- Anaphylaxis training
-
 ### Understand
 - [NSW Education Workplace health and safety](https://education.nsw.gov.au/policy-library/policies/pd-2013-0454)
 - [NSW Education Code of Conduct](https://education.nsw.gov.au/policy-library/policies/pd-2004-0020)
