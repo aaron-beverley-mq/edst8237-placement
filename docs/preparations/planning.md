@@ -14,8 +14,8 @@ SE = Software Engineering (Stage 6)
 | Friday, 17/5    | 9:00 - 10:14  | Teach    | Computing Technology | Assignment 2: New social network pitch                                                                                  |
 |                 | 13:51 - 15:05 | Teach    | Software Engineering | Class Diagrams + Assessment 2 overview                                                                                  |
 | Monday, 20/5    | 13:51 - 15:05 | Teach    | Computing Technology | [Gephi, Review Diameter for Graph Theory, Diagnostic assessment for computer networks and 6.1 Intro to Computer Networks](../LessonPlans/ComputingTechnology-Y09-20240520.md) |
-| Tuesday, 21/5   | 10:23 - 11:37 | Teach    | Software Engineering | [Inheritance, Generalisation, Polymorphism]()                                                                               |
-|                 | 11:57 - 13:11 | Co-teach | SDD                  | Standup - Major work progress, Process Revision                                                                         |
+| Tuesday, 21/5   | 10:23 - 11:37 | Teach    | Software Engineering | [Inheritance, Generalisation, Polymorphism](../LessonPlans/SoftwareEngineering-Y11-20240521.md)                                                                               |
+|                 | 11:57 - 13:11 | Co-teach | SDD                  | [Standup - Major work progress, Process Revision](../LessonPlans/SDD-Y12-20240521.md)                                                                         |
 | Wednesday, 22/5 | 11:30 - 12:40 | Teach    | Software Engineering | Programming Paradigms                                                                                                   |
 | Friday, 24/5    | 9:00 - 10:14  | Teach    | Software Engineering | Data flow diagrams, structure charts, class diagram revision                                                            |
 |                 | 12:03 - 13:16 | Teach    | SDD                  | Revision, continue with major work                                                                                      |
