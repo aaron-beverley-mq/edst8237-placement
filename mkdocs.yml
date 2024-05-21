@@ -57,6 +57,8 @@ nav:
     - 'preparations/paperwork.md'
     - 'preparations/timetable.md'
     - 'preparations/expectations.md'
+    - LessonPlans/Overview.md
+
   - Standards:
     - 'Standards/Standard1.md'
     - 'Standards/Standard2.md'
@@ -65,10 +67,13 @@ nav:
     - 'Standards/Standard5.md'
     - 'Standards/Standard6.md'
     - 'Standards/Standard7.md'
-  - Lesson Plans:
-    - LessonPlans/Overview.md
-    - LessonPlans/ComputingTechnology-Y09-20240520.md
+  - SE Lesson Plans:
     - LessonPlans/SoftwareEngineering-Y11-20240521.md
+    - LessonPlans/SE-Y11-20240522.md
+  - CT Lesson Plans:
+    - LessonPlans/ComputingTechnology-Y09-20240520.md
+  - SDD Lesson Plans:
     - LessonPlans/SDD-Y12-20240521.md
+
 copyright: |
   &copy; 2024 <a href="https://github.com/aaron-beverley-mq" target="_blank" rel="noopener">Aaron Beverley</a>

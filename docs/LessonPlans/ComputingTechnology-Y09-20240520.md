@@ -36,6 +36,7 @@
 | Teacher Activity                                                                                                                     | Student Activity                                                           | Timing |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ------ |
 | Document all students have a partner or working by themselves for the second assessment                                              | Informing teacher of their partner and noting what their initial ideas are | 10 min |
+| Review diameter of a graph as some students were puzzled by it last lesson                          | Listen to review and ask questions                              | 5 min |
 | Describe the Gephi exercise, ensure students have the tool installed and walk the room to check on progress                          | Follow the Gephi exercise in google classroom                              | 20 min |
 | Present the quiz in google classrooms for Computer Networks. <br> - this is to gauge the students existing understanding of networks | Working on their computers to do the quiz                                  | 15 min |
 | Describe the "game" of how the class is going to behave as a network and get the activity started                                    | Participating in the network and being routers                             | 15 min |
