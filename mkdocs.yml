@@ -38,6 +38,7 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
   - tables
+  - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.emoji:
