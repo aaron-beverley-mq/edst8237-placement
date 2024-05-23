@@ -18,7 +18,7 @@ SE = Software Engineering (Stage 6)
 |                 | 11:57 - 13:11 | Co-teach | SDD                  | [Standup - Major work progress, Process Revision](../LessonPlans/SDD-Y12-20240521.md)                                                                         |
 | Wednesday, 22/5 | 11:30 - 12:40 | Teach    | Software Engineering | [Programming Paradigms](../LessonPlans/SE-Y11-20240522.md)                                                                                                   |
 | Friday, 24/5    | 9:00 - 10:14  | Teach    | Software Engineering | Data flow diagrams, structure charts, class diagram revision                                                            |
-|                 | 12:03 - 13:16 | Teach    | SDD                  | Revision, continue with major work                                                                                      |
+|                 | 12:03 - 13:16 | Teach    | SDD                  | [HSC Revision: Search and Sort](../LessonPlans/SDD-Y12-20240524.md)work                                                                                      |
 | Monday, 27/5    | 9:00 - 10:14  | Teach    | Computing Technology | 6.2 Network Hardware, 6.3 Transmission media                                                                            |
 | Tuesday, 28/5   | 9:00 - 10:14  | Teach    | Software Engineering | OOP Design, Patterns                                                                                                    |
 |                 | 10:23 - 11:37 | Teach    | Computing Technology | 6.4 Topologies and Navigation Maps, 6.5 Data Processing and transmission                                                |
