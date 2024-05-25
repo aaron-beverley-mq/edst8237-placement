@@ -69,13 +69,23 @@ nav:
     - 'Standards/Standard6.md'
     - 'Standards/Standard7.md'
   - SE Lesson Plans:
-    - LessonPlans/SoftwareEngineering-Y11-20240521.md
+    - LessonPlans/SE-Y11-20240521.md
     - LessonPlans/SE-Y11-20240522.md
+    - LessonPlans/SE-Y11-20240524.md
+    - LessonPlans/SE-Y11-20240528.md
+    - LessonPlans/SE-Y11-20240529.md
+    - LessonPlans/SE-Y11-20240531.md    
   - CT Lesson Plans:
-    - LessonPlans/ComputingTechnology-Y09-20240520.md
+    - LessonPlans/CT-Y09-20240520.md
+    - LessonPlans/CT-Y09-20240527.md
+    - LessonPlans/CT-Y09-20240528.md
+    - LessonPlans/CT-Y09-20240531.md
   - SDD Lesson Plans:
     - LessonPlans/SDD-Y12-20240521.md
     - LessonPlans/SDD-Y12-20240524.md
+    - LessonPlans/SDD-Y12-20240528.md
+    - LessonPlans/SDD-Y12-20240529.md
+    - LessonPlans/SDD-Y12-20240530.md
 
 copyright: |
   &copy; 2024 <a href="https://github.com/aaron-beverley-mq" target="_blank" rel="noopener">Aaron Beverley</a>
