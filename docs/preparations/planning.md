@@ -19,14 +19,14 @@ SE = Software Engineering (Stage 6)
 | Wednesday, 22/5 | 11:30 - 12:40 | Teach    | Software Engineering | [Programming Paradigms](../LessonPlans/SE-Y11-20240522.md)                                                                                                   |
 | Friday, 24/5    | 9:00 - 10:14  | Teach    | Software Engineering | [Data flow diagrams, structure charts, class diagram revision](../LessonPlans/SE-Y11-20240524.md)                                                            |
 |                 | 12:03 - 13:16 | Teach    | SDD                  | [HSC Revision: Search and Sort, major works](../LessonPlans/SDD-Y12-20240524.md)                                                                                      |
-| Monday, 27/5    | 9:00 - 10:14  | Teach    | Computing Technology | [6.2 Network Hardware, <br>6.3 Transmission media](../LessonPlans/CT-Y09-20240527.md)                                                                            |
+| Monday, 27/5    | 9:00 - 10:14  | Teach    | Computing Technology | [6.2 Network Hardware](../LessonPlans/CT-Y09-20240527.md)                                                                            |
 | Tuesday, 28/5   | 7:30 - 8:40   | Teach :material-new-box:  | SDD | [Revision - Pseudocode](../LessonPlans/SDD-Y12-20240528.md)       |
 |                 | 9:00 - 10:14  | Teach    | Software Engineering | [Revise Harder OO Concepts and Work on assessment](../LessonPlans/SE-Y11-20240528.md)        |
-|                 | 10:23 - 11:37 | Teach    | Computing Technology | [6.4 Topologies and Navigation Maps, <br>6.5 Data Processing and transmission](../LessonPlans/CT-Y09-20240528.md)                                                |
+|                 | 10:23 - 11:37 | Teach    | Computing Technology | [6.3 Transmission media, <br>6.4 Topologies and Navigation Maps](../LessonPlans/CT-Y09-20240528.md)                                                |
 | Wednesday, 29/5 | 10:05 - 11:10 | Teach :material-new-box:   | SDD | [Revision - TBD](../LessonPlans/SDD-Y12-20240528.md)       |
 |                 | 13:20 - 14:30 | Teach    | Software Engineering | [OOP Design, Patterns](../LessonPlans/SE-Y11-20240529.md)   |
 | Thursday, 30/5  | 11:00 - 12:15 | Teach    | SDD                  | [Standup - Agile Process - Major work](../LessonPlans/SDD-Y12-20240530.md)                        |
-| Friday, 31/5    | 9:00 - 10:14  | Teach    | Computer Technology  | [6.6 Network Security, <br>6.7 Internet of Things (IoT)](../LessonPlans/CT-Y09-20240531.md)      |
+| Friday, 31/5    | 9:00 - 10:14  | Teach    | Computer Technology  | [6.5 Data Processing and transmission, 6.6 Network Security](../LessonPlans/CT-Y09-20240531.md)      |
 |                 | 13:51 - 15:05 | Teach    | Software Engineering | [Retrospective - Student feedback on my teaching, <br>fill up time with Code Optimisations](../LessonPlans/SE-Y11-20240531.md)  |
 
 
